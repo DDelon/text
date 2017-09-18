@@ -39,7 +39,7 @@ function Shop:onCreate( ... )
 
     -- 更新道具数据
     self:updatePropList()
-
+    local c =  1
 end
 
 function Shop:init()   
