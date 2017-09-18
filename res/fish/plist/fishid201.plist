@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>fishid201_00.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{141,131}</string>
+                <key>spriteSourceSize</key>
+                <string>{141,131}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{141,131}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>fishid201.pvr.ccz</string>
+            <key>size</key>
+            <string>{143,133}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:b305e308b6743f26babbe6e9ed693567:306fb6e216aa60c980b37b6a0a7a4252:f7fa67e192d5ded73b1b735bd0f3daf7$</string>
+            <key>textureFileName</key>
+            <string>fishid201.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>
