@@ -35,6 +35,7 @@ VipRight.RESOURCE_BINDING  = {
 function VipRight:onCreate( ... )
     self:init()
     local a = 1
+    local b = 2
 end
 
 function VipRight:init()   
