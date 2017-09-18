@@ -15,7 +15,7 @@ Shopitem.RESOURCE_BINDING  = {
 }
 
 function Shopitem:onCreate(...)   
-
+    local d = 1
 end
 
 function Shopitem:setItemData(valTab)   
